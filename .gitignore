@@ -1,0 +1,7 @@
+.DS_Store
+webapps/ROOT.war
+.classpath
+.idea/
+.project
+.settings/
+target/

@@ -1,0 +1,2 @@
+#Point to this properties file in the system environment variable PASSBIRD_CONFIG_FILE
+google_api_key=HERE_YOUR_GOOGLE_CLOUD_MESSAGING_API_KEY
